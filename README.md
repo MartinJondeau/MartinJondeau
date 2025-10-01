@@ -32,7 +32,7 @@
 ---
 
 ## 📎 Quick Links
-- 🔗 **LinkedIn:** [linkedin.com/in/…](www.linkedin.com/in/martin-jondeau-44897827a)  
+- 🔗 **LinkedIn:** (www.linkedin.com/in/martin-jondeau-44897827a)  
 - ✉️ **Contact:** martin.jondeau@gmail.com
 
 ---
