@@ -1,6 +1,6 @@
 <!-- Optional banner -->
 <p align="center">
-  <img src="assets/cover.png" alt="Quant Finance banner" width="100%" />
+  <img src="assets/banner_git.png" alt="Quant Finance banner" width="100%" />
 </p>
 
 # 👋 Hi, I'm Martin Jondeau
