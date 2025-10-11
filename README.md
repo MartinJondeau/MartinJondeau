@@ -15,7 +15,7 @@
 
 | Project | What it does | Tech |
 |---|---|---|
-| [Monte Carlo Exotic Options](https://github.com/@USERNAME/monte-carlo-exotic-options) | Pricing Asian & Barrier options, **dynamic hedging** + PnL viz | Python, NumPy, Streamlit |
+| [Monte Carlo Exotic Options](https://github.com/MartinJondeau/VaR_calculation) | Pricing Asian & Barrier options, **dynamic hedging** + PnL viz | Python, NumPy, Streamlit |
 | [Implied Vol Surface & Arbitrage](https://github.com/@USERNAME/implied-vol-surface-arbitrage) | IV computation, **calendar & butterfly** arbitrage checks, 3D viz | Python, Plotly |
 | [Value at Risk Framework](https://github.com/@USERNAME/var-risk-framework) | Historical, Parametric, **MC VaR (100k)** + **Kupiec & Christoffersen** | Python, pandas |
 | [C++ Pricers for Options](https://github.com/@USERNAME/cpp-derivatives-pricers) | Black-Scholes, CRR binomial, **American options**, Monte Carlo | C++ |
