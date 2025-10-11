@@ -15,8 +15,8 @@
 
 | Project | What it does | Tech |
 |---|---|---|
-| [Implied Vol Surface & Arbitrage](https://github.com/@USERNAME/implied-vol-surface-arbitrage) | IV computation, **calendar & butterfly** arbitrage checks, 3D viz | Python, Plotly |
 | [Value at Risk Framework](https://github.com/MartinJondeau/VaR_calculation) | Historical, Parametric, **MC VaR (100k)** + **Kupiec & Christoffersen** | Python, pandas |
+| [Implied Vol Surface & Arbitrage](https://github.com/@USERNAME/implied-vol-surface-arbitrage) | IV computation, **calendar & butterfly** arbitrage checks, 3D viz | Python, Plotly |
 | [C++ Pricers for Options](https://github.com/@USERNAME/cpp-derivatives-pricers) | Black-Scholes, CRR binomial, **American options**, Monte Carlo | C++ |
 
 ---
