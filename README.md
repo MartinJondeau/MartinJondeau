@@ -6,8 +6,8 @@
 # 👋 Hi, I'm Martin Jondeau
 
 🎓 M1 Quantitative Finance @ ESILV (Paris)  
-📊 Derivatives pricing, risk management & quantitative research  
-💼 Open to 2026 internships (Trading / Sales)
+📊 Algo trading, risk management & quantitative research  
+💼 Open to 2026 internships (Trading / Sales | Market Risk)
 
 ---
 
@@ -17,7 +17,7 @@
 |---|---|---|
 | [Value at Risk Framework](https://github.com/MartinJondeau/VaR_calculation) | Historical, Parametric, **MC VaR (100k)** + **Kupiec & Christoffersen** | Python, pandas |
 | [Implied Vol Surface & Arbitrage](https://github.com/@USERNAME/implied-vol-surface-arbitrage) | IV computation, **calendar & butterfly** arbitrage checks, 3D viz | Python, Plotly |
-| [C++ Pricers for Options](https://github.com/@USERNAME/cpp-derivatives-pricers) | Black-Scholes, CRR binomial, **American options**, Monte Carlo | C++ |
+| [C++ Pricers for Options](https://github.com/adbayre/Option-Pricing-CPP) | Black-Scholes, CRR binomial, **American options**, Monte Carlo | C++ |
 
 ---
 
@@ -44,8 +44,6 @@
 
 ---
 
-## 🎯 Currently
-- Extending MC engine (pathwise delta for hedging)  
-- Real-time dashboard for IV surface + arbitrage flags
+
 
 *Thanks for reading — feel free to open issues or reach out!*
