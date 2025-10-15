@@ -18,6 +18,7 @@
 | [Value at Risk Framework](https://github.com/MartinJondeau/VaR_calculation) | Historical, Parametric, **MC VaR (100k)** + **Kupiec & Christoffersen** | Python, pandas |
 | [Implied Vol Surface & Arbitrage](https://github.com/@USERNAME/implied-vol-surface-arbitrage) | IV computation, **calendar & butterfly** arbitrage checks, 3D viz | Python, Plotly |
 | [C++ Pricers for Options](https://github.com/adbayre/Option-Pricing-CPP) | Black-Scholes, CRR binomial, **American options**, Monte Carlo | C++ |
+| [Crude oil price](https://github/adbayre/Commodities-Price-Prediction) | Linear Regression | Python, pandas, matplotlib, scikit-learn |
 
 ---
 
