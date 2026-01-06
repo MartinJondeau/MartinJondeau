@@ -20,9 +20,9 @@ Currently in the first year of my **Master’s in Financial Engineering** (gradu
 ---
 
 ### 🚀 Active Projects
-* **[Value at Risk Framework](https://github.com/MartinJondeau/Market-Risk-Modelling):** Applying VaR & ES calculation and studying EVT on Natixis stock. Estimation of Bouchaud's price impact model parameters.
+* **[Market Risk Modeling](https://github.com/MartinJondeau/Market-Risk-Modelling):** Applying VaR & ES calculation and studying EVT on Natixis stock. Estimation of Bouchaud's price impact model parameters.
 * **[C++ Pricing Engine](https://github.com/adbayre/Option-Pricing-CPP):** High-performance implementation of Black-Scholes and CRR Binomial models for European and American options.
-* **[Volatility Arbitrage](https://github.com/MartinJondeau/Portfolio-Backtest-Engine):** Portfolio simulation using trading strategies and single asset price prediction.
+* **[Portfolio Performance](https://github.com/MartinJondeau/Portfolio-Backtest-Engine):** Portfolio simulation using trading strategies and single asset price prediction.
 * **[Commodity Market Analysis](https://github/adbayre/Commodities-Price-Prediction):** Machine learning pipeline for Crude Oil price forecasting using macroeconomic indicators.
 
 ---
